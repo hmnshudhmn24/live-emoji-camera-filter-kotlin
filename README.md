@@ -2,7 +2,6 @@
 
 A fun and interactive Android app that detects faces in real-time and replaces them with emojis using ML Kit and CameraX. Ideal for creating playful selfies and entertaining photo moments!
 
----
 
 ## 📸 Features
 
@@ -12,7 +11,6 @@ A fun and interactive Android app that detects faces in real-time and replaces t
 - Front camera support for selfies  
 - Customizable emoji filters
 
----
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +20,6 @@ A fun and interactive Android app that detects faces in real-time and replaces t
 - AndroidX  
 - Jetpack Lifecycle
 
----
 
 ## 🚀 How to Run This Project
 
@@ -42,14 +39,12 @@ cd live-emoji-camera-filter-kotlin
 - Connect an Android device or use an emulator with a front camera.
 - Click ▶️ to build and launch the app.
 
----
 
 ## 🧪 Testing
 
 - Tested on Android 10+ devices  
 - Real-time face detection works best in good lighting
 
----
 
 ## 🎯 Project Goals
 
